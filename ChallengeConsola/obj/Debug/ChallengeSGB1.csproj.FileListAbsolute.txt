@@ -1,0 +1,17 @@
+C:\Users\bauti\source\repos\ChallengeSGB\ChallengeSGB1\bin\Debug\ChallengeSGB1.exe.config
+C:\Users\bauti\source\repos\ChallengeSGB\ChallengeSGB1\bin\Debug\ChallengeSGB1.exe
+C:\Users\bauti\source\repos\ChallengeSGB\ChallengeSGB1\bin\Debug\ChallengeSGB1.pdb
+C:\Users\bauti\source\repos\ChallengeSGB\ChallengeSGB1\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\bauti\source\repos\ChallengeSGB\ChallengeSGB1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\bauti\source\repos\ChallengeSGB\ChallengeSGB1\bin\Debug\System.Security.Permissions.dll
+C:\Users\bauti\source\repos\ChallengeSGB\ChallengeSGB1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\bauti\source\repos\ChallengeSGB\ChallengeSGB1\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\bauti\source\repos\ChallengeSGB\ChallengeSGB1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\bauti\source\repos\ChallengeSGB\ChallengeSGB1\bin\Debug\System.Security.Permissions.xml
+C:\Users\bauti\source\repos\ChallengeSGB\ChallengeSGB1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\bauti\source\repos\ChallengeSGB\ChallengeSGB1\obj\Debug\ChallengeSGB1.csproj.AssemblyReference.cache
+C:\Users\bauti\source\repos\ChallengeSGB\ChallengeSGB1\obj\Debug\ChallengeSGB1.csproj.SuggestedBindingRedirects.cache
+C:\Users\bauti\source\repos\ChallengeSGB\ChallengeSGB1\obj\Debug\ChallengeSGB1.csproj.CoreCompileInputs.cache
+C:\Users\bauti\source\repos\ChallengeSGB\ChallengeSGB1\obj\Debug\ChallengeSGB1.csproj.CopyComplete
+C:\Users\bauti\source\repos\ChallengeSGB\ChallengeSGB1\obj\Debug\ChallengeSGB1.exe
+C:\Users\bauti\source\repos\ChallengeSGB\ChallengeSGB1\obj\Debug\ChallengeSGB1.pdb
