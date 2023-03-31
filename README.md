@@ -1,4 +1,7 @@
 # Challenge
 
 
-[![Captura-de-pantalla-2.png](https://i.postimg.cc/KzS9cvWH/Captura-de-pantalla-2.png)](https://postimg.cc/Jyx3PmMN)
+[![Challenge-C.png](https://i.postimg.cc/B6bx0WSV/Challenge-C.png)](https://postimg.cc/47CK6Sh6)
+
+
+[![challenge-SQL.png](https://i.postimg.cc/fW08tXsg/challenge-SQL.png)](https://postimg.cc/ThfVBKpr)
